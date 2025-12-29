@@ -1,4 +1,4 @@
-# 💫 isabella nascimento
+# 👩🏻‍💻 isabella nascimento
 
 **`desenvolvedora em formação`**
 

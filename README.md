@@ -17,8 +17,6 @@ Atualmente, curso Ciência da Computação no CEFET/RJ e Engenharia de Software 
     src="https://img.icons8.com/color/512/c-programming.png" 
 />
 
-
-
 <img 
     align="left" 
     alt="Git" 
